@@ -10,10 +10,9 @@ School: Politeknik Perkapalan Negeri Surabaya<br>
 Major: D4 Marine Engineering<br>
 
 ## CV Link
-
 **Primary latest update:**<br>
 - [in English]:
 <br><br>
 
 **Seldom updated:**<br>
-- a
+- [(.md) in English](https://github.com/gabillah/CV/blob/main/(.md)%20Gabillah%20-%20CV%20-%20English%20-%20General.md#portfolio-description-financial-and-accounting)
