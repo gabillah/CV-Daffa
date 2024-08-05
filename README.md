@@ -11,7 +11,8 @@ Major: D4 Marine Engineering<br>
 
 ## CV Link
 **Primary latest update:**<br>
-- [in English]: [.pdf link gdrive](https://drive.google.com/file/d/1EZcMvetopIgQX7wO7755EGiF10mpCeED/view?usp=sharing)
+- [in English]: [.pdf link gdrive](https://drive.google.com/file/d/1QaqLKeE3FpB_hO46zy-GI_LPcLDkfKsS/view?usp=sharing)
+- [in Bahasa Indonesia]: [.pdf link gdrive](https://drive.google.com/file/d/17SwcE7qybmGGAR9Bct5K2nEe6C_V9pP0/view?usp=sharing)
 <br><br>
 
 **Seldom updated:**<br>
