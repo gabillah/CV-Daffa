@@ -15,4 +15,4 @@ Major: D4 Marine Engineering<br>
 <br><br>
 
 **Seldom updated:**<br>
-- [(.md) in English](https://github.com/gabillah/CV/blob/main/(.md)%20Gabillah%20-%20CV%20-%20English%20-%20General.md#portfolio-description-financial-and-accounting)
+- [(.md) in English](https://github.com/gabillah/CV/blob/main/(.md)%20Gabillah%20-%20CV%20-%20English%20-%20General.md#curriculum-vitae)
