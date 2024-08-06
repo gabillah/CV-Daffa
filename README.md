@@ -7,7 +7,7 @@ Name: Daffa Gabillah Maulana Gapur<br>
 Current job: 3rd-year undergraduate student (unemployment)<br>
 <br>
 School: Politeknik Perkapalan Negeri Surabaya<br>
-Major: D4 Marine Engineering<br>
+Major: D4 Teknik Permesinan Kapal<br>
 
 ## CV Link
 **Primary latest update:**<br>
